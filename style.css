@@ -17,11 +17,8 @@ body{
 
 }
 
-<<<<<<< HEAD
 /* 
-=======
 /*
->>>>>>> 9880944 (Fix hero background image)
         NAVBAR
  */
 
@@ -118,12 +115,7 @@ nav ul li a:hover{
 .hero{
 
     height:90vh;
-<<<<<<< HEAD
     background:url("images/hero.jpg");
-=======
-
-    background: url("images/hero.jpg");
->>>>>>> 9880944 (Fix hero background image)
 
     background-size:cover;
 
